@@ -1,0 +1,4 @@
+interface:
+  display_name: "老子·道德经系统调节"
+  short_description: "用减法知止柔性时机与系统自运行方法解决过度用力和复杂失控问题"
+  default_prompt: "使用 $laozi-system-regulation 判断我是否过度干预，并给出唯一推荐、第一步和可观察重判条件。"

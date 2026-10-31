@@ -1,0 +1,4 @@
+interface:
+  display_name: "孙子兵法战略竞争 Skill v2.0"
+  short_description: "用《孙子兵法》判断竞争选择、资源配置、行动时机、长期成本与退出机制"
+  default_prompt: "Use $sunzi-strategic-competition to analyze whether I should enter, focus, wait, or exit this competition."
